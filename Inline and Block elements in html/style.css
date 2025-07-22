@@ -1,0 +1,12 @@
+p{
+    background-color: aqua;
+}
+a{
+    background-color: hsl(0, 100%, 50%);
+}
+div{
+    background-color: rgb(134, 90, 33);
+}
+span{
+    background-color: rgb(57, 128, 190);
+}
